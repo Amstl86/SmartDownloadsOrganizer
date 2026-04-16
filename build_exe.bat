@@ -1,0 +1,1 @@
+pyinstaller --onefile --name SmartOrganizer main.py

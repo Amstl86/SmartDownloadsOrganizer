@@ -1,0 +1,25 @@
+target_folder: "~/Downloads"
+log_file: "organizer.log"
+archive_old_days: 30
+rules:
+  Images:
+    - .jpg
+    - .png
+    - .jpeg
+    - .gif
+    - .svg
+  Documents:
+    - .pdf
+    - .doc
+    - .docx
+    - .txt
+    - .xlsx
+  Installers:
+    - .exe
+    - .msi
+    - .pkg
+  Archives:
+    - .zip
+    - .rar
+    - .7z
+    - .tar.gz
